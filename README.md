@@ -1,6 +1,5 @@
 # Multi-Agent-Financial-Analytics-Engine
 
-# Financial Agent Bot
 
 ## Overview
 This project is a **Financial Agent Bot** that provides financial insights using AI. The bot leverages external APIs such as OpenAI and Groq, along with financial data sources like **Yahoo Finance**. It is built using **FastAPI** for backend processing and includes a **playground** interface for user interaction.
@@ -20,7 +19,7 @@ Before running the project, ensure you have the following installed:
 ## Installation
 ```sh
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/Saikrishna-Paila/Multi-Agent-Financial-Analytics-Engine.git
 cd <repository-folder>
 
 # Install dependencies
@@ -65,5 +64,8 @@ http://localhost:7777
 - Responses are displayed in the terminal or browser interface.
 
 ## Screenshot of Output
-_(Attach a screenshot of the working application here)_
+
+![Output Screenshot](https://github.com/Saikrishna-Paila/Multi-Agent-Financial-Analytics-Engine/blob/main/output.png)
+
+
 

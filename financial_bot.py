@@ -259,4 +259,4 @@ if user_input:
 
 # Footer with dark mode styling
 st.markdown("---")
-st.markdown("<p style='text-align: center; color: #718096;'>*Powered by Phi, Groq, and Streamlit*</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; color: #718096;'>Created and Design by saikrishna Paila</p>", unsafe_allow_html=True)
